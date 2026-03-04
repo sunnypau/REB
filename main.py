@@ -50,6 +50,7 @@ def template():
 if __name__ == "__main__":
     template()
     print()
+    print("Sunny was here.")
 
 # Sunny was here
 # Sunny is here again and ready to push to origin.
