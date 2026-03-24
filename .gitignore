@@ -1,3 +1,7 @@
 
 /myenv
 /Old version
+/.venv/lib/python3.11/site-packages/_pytest
+/.venv/lib/python3.11/site-packages
+/.venv/bin
+/src/milap/__pycache__
